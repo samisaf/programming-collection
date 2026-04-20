@@ -1,7 +1,7 @@
 # A blast from the past
 This is one of my oldest programming projects. It was created in the early 2000s. Unfortuantely, I lost the source code. The website was hosted via geocitis, but is now gone. [Wayback Machine archive](https://web.archive.org/web/20021002231033/http://geocities.com/safadi123/). 
 
-Unfortunately, the Arabic version is not available. 
+Unfortunately, the Arabic version is not available. Notice: during the setup you will be asked to enter a serial number, the serial number is `GoYaMouch`
 
 Here is what the website said:
 
@@ -19,8 +19,4 @@ This Collection includes :
 
 And other programs... which are indispensable to each computer user.
 
-To download Sami's Programming Collection 2.00 the Arabic version click below
-
-To download Sami's Programming Collection 2.00 the English version click below
-
-> Notice: during the setup you will be asked to enter a serial number, the serial number is `GoYaMouch`
+![Screenshot](./screenshot.png)
